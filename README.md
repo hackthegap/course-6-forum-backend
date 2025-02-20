@@ -102,7 +102,7 @@ cd course-6-forum-frontend
    node server.js
    ```
 
-   The back end server will run on `http://localhost:5000`.
+   The back end server will run on `http://localhost:5001`.
 
 ---
 
